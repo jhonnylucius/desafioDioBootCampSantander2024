@@ -18,7 +18,7 @@ public class Dev {
             this.conteudosConcluidos.add(conteudo.get());
             this.conteudosInscritos.remove(conteudo.get());
         } else {
-            System.err.println("Ainda não se matriculouo em nenhum curso, escolha um e começe sua jornada");
+            System.err.println("Ainda não se matriculou, escolha um e começe sua jornada");
         }
     }
 
